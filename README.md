@@ -1,4 +1,4 @@
-# Three.js Journey
+# Media Distinctions Awards
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
